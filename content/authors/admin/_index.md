@@ -1,7 +1,7 @@
 ---
 title: Andrea Cavero Arrivasplata
 role: BSc. Bioengineering student
-avatar_filename: andy-copia.jpg
+avatar_filename: andy.jpg
 bio: My research interests include tissue engineering, 3D bioprinting,
   biomaterials, and stem cells.
 interests: []
