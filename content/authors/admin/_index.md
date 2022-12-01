@@ -14,10 +14,10 @@ social:
     link: /#contact
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com.mx/citations?user=M9BxSEIAAAAJ&hl=es
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/andreacaveroa/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
