@@ -31,8 +31,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Universidad de Ingeniería y Tecnología (UTEC)
+    url: https://utec.edu.pe/
 education:
   courses:
     - course: PhD in Artificial Intelligence
