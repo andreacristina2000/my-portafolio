@@ -4,10 +4,7 @@ role: BSc. Bioengineering student
 avatar_filename: andy-copia.jpg
 bio: My research interests include tissue engineering, 3D bioprinting,
   biomaterials, and stem cells.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -43,6 +40,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Andrea Cavero is an undergraduate Bioengineering student of Universidad de Ingeniería y Tecnología (Perú). In 2022, she joined the Biomedical Engineering Laboratory "Álvarez-Trujillo" of Tecnológico de Monterrey to develop her undergraduate thesis. Her research project consists in the production of multicelular and vascularized robust hydrogel fibers for maturation of skeletal muscle tissue using bioprinting strategies developed jointly with Harvard-MIT.  Besides her interest in research, she is encouraging young people to follow a career path in STEM. For that purpose, she has been speaker in online events and mainstream media as a university student leader and spokesperson of Skills4Girls Project of UNICEF in Perú. Finally, she hopes to contribute in the integration of new scientific knowledge into public policies through science diplomacy strategies.
-
-<!--EndFragment-->
+Andrea Cavero is an undergraduate Bioengineering student of Universidad de Ingeniería y Tecnología (Perú). In 2022, she joined the Biomedical Engineering Laboratory "Álvarez-Trujillo" of Tecnológico de Monterrey to develop her undergraduate thesis. Her research project consists in the production of multicelular and vascularized robust hydrogel fibers for maturation of skeletal muscle tissue using bioprinting strategies developed jointly with Harvard-MIT.
