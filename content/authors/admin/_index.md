@@ -2,8 +2,8 @@
 title: Andrea Cavero Arrivasplata
 role: BSc. Bioengineering student
 avatar_filename: andy-copia.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include tissue engineering, 3D bioprinting,
+  biomaterials, and stem cells.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -12,18 +12,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -52,6 +43,6 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
+Andrea Cavero is an undergraduate Bioengineering student of Universidad de Ingeniería y Tecnología (Perú). In 2022, she joined the Biomedical Engineering Laboratory "Álvarez-Trujillo" of Tecnológico de Monterrey to develop her undergraduate thesis. Her research project consists in the production of multicelular and vascularized robust hydrogel fibers for maturation of skeletal muscle tissue using bioprinting strategies developed jointly with Harvard-MIT.  Besides her interest in research, she is encouraging young people to follow a career path in STEM. For that purpose, she has been speaker in online events and mainstream media as a university student leader and spokesperson of Skills4Girls Project of UNICEF in Perú. Finally, she hopes to contribute in the integration of new scientific knowledge into public policies through science diplomacy strategies.
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+<!--EndFragment-->
