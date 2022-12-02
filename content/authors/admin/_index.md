@@ -1,10 +1,15 @@
 ---
 title: Andrea Cavero Arrivasplata
 role: BSc. Bioengineering student
-avatar_filename: https://media-exp1.licdn.com/dms/image/D5603AQFefN51UMwjwg/profile-displayphoto-shrink_800_800/0/1668368619558?e=1675296000&v=beta&t=8OcbUikuOIfo8_4mVtKRRTILmzXH7pIN3q2MwwyE55s
+avatar_filename: avatar.jpg
 bio: My research interests include tissue engineering, 3D bioprinting,
   biomaterials, and stem cells.
-interests: []
+interests:
+  - Tissue engineering
+  - 3D bioprinting
+  - biomaterials
+  - nanobiotechnology
+  - stem cells.
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,16 +27,7 @@ organizations:
   - name: Universidad de Ingeniería y Tecnología (UTEC)
     url: https://utec.edu.pe/
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  courses: []
 superuser: true
 status:
   icon: ☕️
